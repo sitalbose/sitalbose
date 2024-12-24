@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sitalbose&label=Profile%20views&color=0e75b6&style=flat" alt="sitalbose" /> </p>
 
-- 🔭 I’m currently working on **Travel Haven**
+- 🔭 I’m currently working on **Cloud Automation Deployment**
 
-- 🌱 I’m currently learning **node JS**
+- 🌱 I’m currently learning **Kubernetes**
 
 - 📫 How to reach me **sitalbose456@gmail.com**
 
